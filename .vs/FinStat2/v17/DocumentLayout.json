@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Base\\Programming\\C#\\FinStat2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AE4F21-DC61-4A9B-956E-E8F18AFE8E25}|FinStat2\\FinStat2.csproj|c:\\base\\programming\\c#\\finstat2\\finstat2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AE4F21-DC61-4A9B-956E-E8F18AFE8E25}|FinStat2\\FinStat2.csproj|solutionrelative:finstat2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AE4F21-DC61-4A9B-956E-E8F18AFE8E25}|FinStat2\\FinStat2.csproj|C:\\Base\\Programming\\C#\\FinStat2\\finstat2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AE4F21-DC61-4A9B-956E-E8F18AFE8E25}|FinStat2\\FinStat2.csproj|solutionrelative:finstat2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AE4F21-DC61-4A9B-956E-E8F18AFE8E25}|FinStat2\\FinStat2.csproj|c:\\base\\programming\\c#\\finstat2\\finstat2\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{B3AE4F21-DC61-4A9B-956E-E8F18AFE8E25}|FinStat2\\FinStat2.csproj|solutionrelative:finstat2\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AE4F21-DC61-4A9B-956E-E8F18AFE8E25}|FinStat2\\FinStat2.csproj|C:\\Base\\Programming\\C#\\FinStat2\\finstat2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3AE4F21-DC61-4A9B-956E-E8F18AFE8E25}|FinStat2\\FinStat2.csproj|solutionrelative:finstat2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AE4F21-DC61-4A9B-956E-E8F18AFE8E25}|FinStat2\\FinStat2.csproj|C:\\Base\\Programming\\C#\\FinStat2\\finstat2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3AE4F21-DC61-4A9B-956E-E8F18AFE8E25}|FinStat2\\FinStat2.csproj|solutionrelative:finstat2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AE4F21-DC61-4A9B-956E-E8F18AFE8E25}|FinStat2\\FinStat2.csproj|C:\\Base\\Programming\\C#\\FinStat2\\finstat2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AE4F21-DC61-4A9B-956E-E8F18AFE8E25}|FinStat2\\FinStat2.csproj|solutionrelative:finstat2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Base\\Programming\\C#\\FinStat2\\FinStat2\\Form1.cs",
+              "RelativeDocumentMoniker": "FinStat2\\Form1.cs",
+              "ToolTip": "C:\\Base\\Programming\\C#\\FinStat2\\FinStat2\\Form1.cs",
+              "RelativeToolTip": "FinStat2\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:29:24.712Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Base\\Programming\\C#\\FinStat2\\FinStat2\\Form2.cs",
+              "RelativeDocumentMoniker": "FinStat2\\Form2.cs",
+              "ToolTip": "C:\\Base\\Programming\\C#\\FinStat2\\FinStat2\\Form2.cs",
+              "RelativeToolTip": "FinStat2\\Form2.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAuwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:30:23.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Base\\Programming\\C#\\FinStat2\\FinStat2\\Class1.cs",
+              "RelativeDocumentMoniker": "FinStat2\\Class1.cs",
+              "ToolTip": "C:\\Base\\Programming\\C#\\FinStat2\\FinStat2\\Class1.cs",
+              "RelativeToolTip": "FinStat2\\Class1.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T04:07:35.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Base\\Programming\\C#\\FinStat2\\FinStat2\\Form1.cs",
+              "RelativeDocumentMoniker": "FinStat2\\Form1.cs",
+              "ToolTip": "C:\\Base\\Programming\\C#\\FinStat2\\FinStat2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FinStat2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:27:39.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Base\\Programming\\C#\\FinStat2\\FinStat2\\Form2.cs",
+              "RelativeDocumentMoniker": "FinStat2\\Form2.cs",
+              "ToolTip": "C:\\Base\\Programming\\C#\\FinStat2\\FinStat2\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FinStat2\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:28:33.036Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "8f726073-5156-472b-8279-6b3bbfbc3a24",
+        "Display": 0,
+        "X": 326,
+        "Y": 58,
+        "Width": 1214,
+        "Height": 579,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Base\\Programming\\C#\\FinStat2\\FinStat2\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "FinStat2\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Base\\Programming\\C#\\FinStat2\\FinStat2\\ClassDiagram1.cd",
+              "RelativeToolTip": "FinStat2\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-07-14T08:57:16.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

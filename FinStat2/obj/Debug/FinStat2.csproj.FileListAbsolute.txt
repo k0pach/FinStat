@@ -1,0 +1,11 @@
+C:\Base\Programming\C#\FinStat2\FinStat2\bin\Debug\FinStat2.exe.config
+C:\Base\Programming\C#\FinStat2\FinStat2\bin\Debug\FinStat2.exe
+C:\Base\Programming\C#\FinStat2\FinStat2\bin\Debug\FinStat2.pdb
+C:\Base\Programming\C#\FinStat2\FinStat2\obj\Debug\FinStat2.csproj.AssemblyReference.cache
+C:\Base\Programming\C#\FinStat2\FinStat2\obj\Debug\FinStat2.Properties.Resources.resources
+C:\Base\Programming\C#\FinStat2\FinStat2\obj\Debug\FinStat2.csproj.GenerateResource.cache
+C:\Base\Programming\C#\FinStat2\FinStat2\obj\Debug\FinStat2.csproj.CoreCompileInputs.cache
+C:\Base\Programming\C#\FinStat2\FinStat2\obj\Debug\FinStat2.exe
+C:\Base\Programming\C#\FinStat2\FinStat2\obj\Debug\FinStat2.pdb
+C:\Base\Programming\C#\FinStat2\FinStat2\obj\Debug\FinStat2.Form2.resources
+C:\Base\Programming\C#\FinStat2\FinStat2\obj\Debug\FinStat2.Form1.resources
